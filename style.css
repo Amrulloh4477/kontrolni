@@ -1,0 +1,12 @@
+@media (max-width: 400px) {
+  .hoz {
+    display: none;
+  }
+  .zsa {
+    background-image: url("./Без\ названия.png");
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    margin-left: 170px;
+  }
+}
